@@ -1,6 +1,6 @@
 <?php
 function declOfNum($number, array $fields, $showNumber)
-
+{
   $str="";
   if($showNumber==true)
   {
